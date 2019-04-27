@@ -1,0 +1,25 @@
+{
+  "name": "pa11y-cookie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamkeaton/pa11y-cookie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liamkeaton/pa11y-cookie/issues"
+  },
+  "homepage": "https://github.com/liamkeaton/pa11y-cookie#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "pa11y": "^5.1.0"
+  }
+}
